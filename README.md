@@ -3,7 +3,7 @@
 A modern, responsive portfolio website showcasing my skills and projects as an aspiring Cloud & DevOps Engineer.
 
 ## 🌐 Live Demo
-**[Visit My Portfolio](https://renuu007.github.io/Static-Website/)**
+**[Visit My Portfolio](https://renuu007.github.io/Portfolio/)**
 
 ## 📋 Project Overview
 
